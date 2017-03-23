@@ -14,6 +14,6 @@
   (fp_arc (start 99.06 -2.54) (end 101.6 -2.54) (angle 90) (layer Dwgs.User) (width 0.15))
   (fp_arc (start 2.54 -2.54) (end 2.54 0) (angle 90) (layer Dwgs.User) (width 0.15))
   (fp_arc (start 99.06 -68.58) (end 99.06 -71.12) (angle 90) (layer Dwgs.User) (width 0.15))
-  (pad ~ thru_hole circle (at 3.5 -3.5) (size 1 1) (drill 0.3) (layers *.Cu *.Mask F.SilkS))
-  (pad ~ thru_hole circle (at 98.2 -67.62) (size 1 1) (drill 0.3) (layers *.Cu *.Mask F.SilkS))
+  (pad ~ thru_hole circle (at 3.5 -3.5) (size 1 1) (drill 0.3) (layers *.Cu ))
+  (pad ~ thru_hole circle (at 98.2 -67.62) (size 1 1) (drill 0.3) (layers *.Cu))
 )
